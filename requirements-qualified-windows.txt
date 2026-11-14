@@ -11,7 +11,7 @@ frozenlist==1.8.0
 groestlcoin_hash==1.0.3
 idna==3.18
 iniconfig==2.3.0
-multidict==6.7.1
+multidict==6.9.1
 packaging==26.2
 pluggy==1.6.0
 plyvel-ci==1.5.1
