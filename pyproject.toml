@@ -18,7 +18,8 @@ dependencies = [
     "attrs",  # TODO try to use stdlib dataclasses instead
     "plyvel; platform_system != 'Windows'",
     "plyvel-ci; platform_system == 'Windows'",
-    "aiohttp>=3.3,<4",
+    "aiohttp>=3.14.4,<4",
+    "multidict>=6.9.1,<7",
 ]
 classifiers = [
     "Development Status :: 5 - Production/Stable",
